@@ -1,0 +1,3 @@
+rootProject.name='OpenCv3'
+include ':app'
+include ':openCVLibrary300'
