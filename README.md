@@ -7,5 +7,6 @@ OpenCv3的引入
 
 # 使用说明
 >将OpenCv3 SDK 下载并解压 放在 D:\\OpenCV\\OpenCV-android-sdk
+
 >或者修改 CMakeLists.txt中OpenCV SDK的路径
 >>set(pathToOpenCv D:\\OpenCV\\OpenCV-android-sdk)
